@@ -1,4 +1,4 @@
-# personality To Career
+# Personality To Career
 
 Desktop application to help high school students in remote areas (with limited access to computer) decide which career
 path to follow based on their personalities traits
